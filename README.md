@@ -1,0 +1,1 @@
+Implemented Sketch-A-Secret Algorithm in Python. Also, created a minimal frontend page for drawing and saving sketches to test the algorithm. NOTE: script is not fully working. I'm encountering some NaN issues
